@@ -1,13 +1,15 @@
 p {
-
-  
+  color: gray;
 }
 
-h2.intro {
-
+h2.intro { 
+  color: darkblue;
+  width: 50%;
+  font-style: italic;
 }
 
 p.intro {
+  
 
 }
 
