@@ -1,19 +1,16 @@
-h1 {text-align: center;}
-p {
-  color: gray;
+h1 {
   text-align: center;
 }
 
-h2.intro { 
-  color: darkblue;
+.important { 
+  color: rgb(18, 18, 194);
   width: 50%;
   font-style: italic;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-p.intro {
-  font-style: serif;
-}
 
 #img {
   height: 40;
